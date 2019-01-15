@@ -5,6 +5,8 @@ models
 *.p
 /.project
 
+# the data set is large and github isn't able to manage them
+data
 
 # Created by https://www.gitignore.io/api/python,pycharm,jupyternotebook
 # Edit at https://www.gitignore.io/?templates=python,pycharm,jupyternotebook
